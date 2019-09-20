@@ -11,15 +11,19 @@ Simple login in system boilerplate to help start your backend. Hope it helps don
 
 # Dependencies
 
-## • express (server)
-
-## • express-validator (request validation/sterilization)
-
-## • cors (cross origin resource sharing)
-
-## • mongoose (object data modeling)
-
-## • bcryptjs (password hashing)
+• express (server)
+\
+\
+• express-validator (request validation/sterilization)
+\
+\
+• cors (cross origin resource sharing)
+\
+\
+• mongoose (object data modeling)
+\
+\
+• bcryptjs (password hashing)
 
 # Install Dependencies
 
